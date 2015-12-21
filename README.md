@@ -1,5 +1,7 @@
 # City Watch - RailsChallenge v1.0
 
+[![Join the chat at https://gitter.im/Codecatenation/railschallenge-city-watch](https://badges.gitter.im/Codecatenation/railschallenge-city-watch.svg)](https://gitter.im/Codecatenation/railschallenge-city-watch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the very first **rails**challenge!
 
 ## Late one Friday at the office...
